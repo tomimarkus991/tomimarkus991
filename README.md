@@ -77,10 +77,13 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![tomimarkus991 stats](https://github-readme-stats.vercel.app/api?username=tomimarkus991&hide=stars&count_private=true&show_icons=true&theme=github_dark&border_radius=20)
+![tomimarkus991 stats](https://github-readme-stats.vercel.app/api?username=tomimarkus991&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomimarkus991&layout=compact&show_icons=true&theme=github_dark&border_radius=20)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomimarkus991&theme=github-dark-blue&border_radius=20)](https://git.io/streak-stats)
 </div>
 <!--  End Stats Cards -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
