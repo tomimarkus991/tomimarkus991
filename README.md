@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm tomi</h1>
-<h3 align="center">An enthusiastic developer</h3>
+<h1 align="center">Hello 👋</h1>
+
+![](waves.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomimarkus991&label=Profile%20views&color=30a207&style=flat" alt="tomimarkus991" /> </p>
 
@@ -24,15 +25,11 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
+
+![](tech.svg)
+
+<img src="https://raw.githubusercontent.com/tomimarkus991/tomimarkus991/main/tech.svg" width="auto" height="auto">
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
@@ -64,24 +61,8 @@
 <br>
 <br>
 
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<div class="stats" align="center">
-<!-- 
-![tomimarkus991 stats](https://github-readme-stats.vercel.app/api?username=tomimarkus991&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomimarkus991&layout=compact&show_icons=true&theme=github_dark&border_radius=20)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tomimarkus991&theme=github-dark-blue&border_radius=20)](https://git.io/streak-stats)
-</div>
- -->
-<!--  End Stats Cards -->
+<!-- link tech and waves.svg files -->
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
