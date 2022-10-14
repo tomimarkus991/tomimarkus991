@@ -26,7 +26,7 @@ I am a software engineer from Estonia. I love building fast, beautiful and high-
 
 <!-- Tech START -->
 
-<div align="center" style="padding-bottom:20px;">
+<div align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
@@ -40,7 +40,8 @@ I am a software engineer from Estonia. I love building fast, beautiful and high-
       <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
   </a>  
 </div>
-<div align="center" style="padding-bottom:20px;">
+<br/>
+<div align="center">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img  alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   </a>
@@ -52,8 +53,9 @@ I am a software engineer from Estonia. I love building fast, beautiful and high-
   </a>
 <img alt="Tailwind" height="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
   </div>
+<br/>
           
-<div align="center" style="padding-bottom:20px;">
+<div align="center">
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
       <img  alt="Redis" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"/>
   </a>
@@ -67,6 +69,8 @@ I am a software engineer from Estonia. I love building fast, beautiful and high-
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>  
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
