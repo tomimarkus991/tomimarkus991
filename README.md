@@ -8,7 +8,7 @@ I am a software engineer from Estonia. I love building fast, beautiful and high-
 
 Check out my org [redlotus](https://github.com/redlotus-io)
 
-- 🔭 I’m currently working on [unisub](https://github.com/tomimarkus991/unisub)
+- 🔭 I’m currently working on [unisub](https://github.com/tomimarkus991/unisub), [karate club nüke webpage](https://github.com/tomimarkus991/karatekool) and Message Sending projects with Kaitseliit and Viimsi linnavalitsus
 
 - 🌱 I’m currently learning **Advanced graphql and react and how to improve DX**
 
