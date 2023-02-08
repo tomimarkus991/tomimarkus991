@@ -16,8 +16,6 @@ Check out my org [redlotus](https://github.com/redlotus-io)
 
 - 📫 How to reach me **tomimarkusalber@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JY0gCLUEsnK0PaQzWmCEqhn4rl2tlCMbLLS_hpjyTfA/edit?usp=sharing](https://docs.google.com/document/d/1JY0gCLUEsnK0PaQzWmCEqhn4rl2tlCMbLLS_hpjyTfA/edit?usp=sharing)
-
 - ⚡ Fun fact **I drink alot... of water**
 
 <br/>
