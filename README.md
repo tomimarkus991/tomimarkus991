@@ -1,4 +1,4 @@
-![](waves.svg)
+<img src="./waves.svg">
 
 <h1 align="left">Hello 👋</h1>
 
