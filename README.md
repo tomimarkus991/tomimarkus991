@@ -1,4 +1,4 @@
-<img src="./waves.svg">
+<img width="100%" src="./waves.svg">
 
 <h1 align="left">Hello 👋</h1>
 
