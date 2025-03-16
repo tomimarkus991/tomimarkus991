@@ -14,7 +14,7 @@ Check out my org [redlotus](https://github.com/redlotus-io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomimarkus991?tab=repositories](https://github.com/tomimarkus991?tab=repositories)
 
-- 📫 How to reach me **tomimarkusalber@gmail.com**
+- 📫 How to reach me **tomimarkus@alber.ee**
 
 - ⚡ Fun fact **I drink alot... of water**
 
